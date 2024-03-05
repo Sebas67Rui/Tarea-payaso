@@ -1,0 +1,130 @@
+#principal{
+    width: 900px;
+    height: 2000px;
+    background-color: aquamarine;
+    margin: 20px;
+}
+
+#uno{
+    width: 600px;
+    height: 550px;
+    background-color: cornsilk;
+    border-radius: 300px;
+    display: inline-block;
+    position: relative;
+    left: 150px;
+    top: 150px;
+}
+
+#boca{
+    width: 400px;
+    height: 175px;
+    background-color: red;
+    border-radius: 900px;
+    position: relative;
+    margin: 100px;
+    top: 220px;
+}
+
+#labio{
+    width: 250px;
+    height: 100px;
+    background-color:  darkorchid;
+    border-radius: 100px;
+    position: relative;
+    margin: 75px;
+    top: 45px;
+}
+
+#linea{
+    height: 10px;
+    width: 150px;
+    background-color: black;
+    position: relative;
+    margin: 60px;
+    top: 50px;
+}
+
+#nariz{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    border-radius: 100px;
+    
+}
+
+
+#dos{
+    width: 70px;
+    height: 100px;
+    background-color: yellow;
+    margin: 20px;
+    display: inline-block;
+    position: relative;
+    bottom: 30px;
+    right: 215px;
+    border-radius: 100px;
+}
+
+#tres{
+    position: relative;
+    width: 80px;
+    height: 170px;
+    background-color: blue;
+    border-radius: 100px 100px 0 0;
+    margin-left: 323px;
+    bottom: 254px;
+}
+
+#ojo{
+    position: relative;
+    width: 40px;
+    height: 80px;
+    background-color: black;
+    border-radius: 100px 100px 0 0;
+    margin-left: 20px;
+    top: 90px;
+   
+}
+
+#ojo2{
+    position: relative;
+    width: 40px;
+    height: 80px;
+    background-color: black;
+    border-radius: 100px 100px 0 0;
+    margin-left: 20px;
+    top: 90px;
+   
+}
+
+#cuatro{
+    position: relative;
+    width: 80px;
+    height: 170px;
+    background-color: blue;
+    border-radius: 100px 100px 0 0;
+    margin-left: 485px;
+    bottom: 424px;
+}
+
+#sombrero{
+    width: 450px;
+    height: 55px;
+    background-color: yellow;
+    border-radius: 400px;
+    position: relative;
+    margin: 100px;
+    bottom: 850px;
+    left: 125px;
+}
+
+#capa{
+    width: 300px;
+    height: 100px;
+    background-color:yellow;
+    margin: 20px;
+    position: relative;
+    bottom: 1105px;
+    left: 280px;
+}
